@@ -77,8 +77,49 @@ Execução = mostra falhas causadas por defeito do software
 Depuração - processo de investigação e correção do processo do código
 Variam de acordo com a metodologia usado na equipe
 
+Principios de testes
+Mostra defeitos e não ausencias
+Testes exasutivos são impossiveis
+Testes iniciais economizam tempo e dinheiro
+Defeitos se agrupam
+O mesmo teste não apresenta novos defeitos> atenção nos testes de regresão
+O teste depende do contexto
+Ausência de erro é ilusão
 
+Fatores de influencia
+Modelo do ciclo
+Níveis e tipo de testes
+Risco do produto e projeto
+Dominio do negócio
+Restrição operacionais
+Política e praticas organizações
+Normas internas
 
+Atividades de teste
+Planejar
+Monitoramento
+Analise
+Modelagem
+Implmentação
+Execução
+Conclusao
+
+Niveis de testes:
+Testes de componentes
+Teste de integração
+Testes de sistemas
+Testes de aceite
+
+Tipos de testes
+Objetivo especifico
+Avaliar características funcionais e não funcionais
+Avaliar estrutura e arquitetura de compontentes/sistemas
+Avaliar defeitos de alteração em ouras pates do código
+
+Tecnicas de testes
+Objetivo: auxiliar na identificação
+Caixa preta, caixa branca e por experiência
+Cinza - mix caixa preta e branca
 
 
 
