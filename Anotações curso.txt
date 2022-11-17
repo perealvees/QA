@@ -20,6 +20,75 @@ Controle - Examinar artefatos, determinar padrões estão acordados com os segui
 Melhoria de processos - se preocupar com eficiencia, sobre a meta principal para a melhoria  da qualidade so software
 
 
+GERENCIAMENTO DE DEFEITOS
+Analise estatica - avalia documentação e codigo fonte - metodo formais
+Analise dinamica - relacionado a tecnincas do codigo em execução
+Verificação - garante o produto construido corretamente
+validação - se o produto correto esta sendo contruido
+
+Analise estatica - avaliação de documentação
+code reiew
+ferramentas de automação
+
+Rastreamndo defeitos
+Entendimento do produto e tipo de defeitos encontrados
+facilitar correção do processo
+reporte do ststus do produto
+Alinhamento da revisão
+
+O que é defeito: qualquer tipo de anomalia encontrada
+erro - ação humana que faça um resultado incorreto
+defeito - impeerfeição relacionado aos requerimentos e espeficações
+falha no sistema - evento no qual o sistema não executa a função sob limites especificos
+
+Motivos dos erros:
+pressão tempo
+falha humana
+inexperiencia e falta de qualificação
+falta de comunicação
+complexidade do código
+complexidade da tecnologia
+condições ambientes inesperados
+
+Ciclo do Bug
+new >assigned >open >fixed >pending retest >retest >verified >reopen >closed ou dam
+
+status relacionado a analise do defeito
+>duplicaded >refectes >deferred >not a bug
+
+Ferramentas de Suporte - Rastreamento de defeitos
+
+
+GERECIAMENTO DE DEFEITOS
+O que é teste? avaliar e reduzir riscos de falhas em operação
+Faz parte do controle de qualidade
+O processo de teste não diz respeito somente ao ato de executar
+
+Objetivos gerais de fazer testes:
+evitar defeitos
+verificar cumprimentos de requisitos
+validar se o produto dunciona
+confiança no nivel de qualidade
+redução de risocos
+atuar junto com o cliente
+
+Teste x Apuração
+Execução = mostra falhas causadas por defeito do software
+Depuração - processo de investigação e correção do processo do código
+Variam de acordo com a metodologia usado na equipe
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
