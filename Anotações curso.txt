@@ -1,0 +1,39 @@
+DEFININDO QUALIDADE
+Definir qualidade - NBR/ISO 9000:2005 - CARACTERÍSTICAS INERENTES QUE SATISFAZ OS REQUESITOS DO CLIENTE
+Foco no que o cliente quer, mas ele pode não saber de tudo então temos que se atentar
+
+NORMAS E PADRÕES DE QUALIDADE
+Normas: são documentos publicados por organizações, tem que ser na mesma lingua pra não haver erro na comunicação
+IEEE, ISO, IEC - Instituições importantes
+
+MEDINDO QUALIDADE
+Qualidade esta tudo que fazemos, desde processos a especificações, a definições de metelogias, etc
+Qualidade não é teste, testar não garante qualidade
+Qualidade do produto em uso = é visão do usuário, satisfação
+
+PROCESSO DE GERENCIAMENTO DE QUALIDADE
+Conjunto de processos dos serviços para alçar ao objetivo da satisfação do usuário
+4 atividades principais atividades: PLANEJAMENTO, GARANTIA, CONTROLE DE QUALIDADE E MELHORIA DE PROCESSOS
+Planejamento - DETERMINAR: Olhar critico, determinar os padroes, metas especificas e esforço das atividades
+Garantia - Etapa do processo que se preocupa com as atividades que se adequam aos padroes do cliente, ter a confiança do cliente
+Controle - Examinar artefatos, determinar padrões estão acordados com os seguidos, avaliar produto final
+Melhoria de processos - se preocupar com eficiencia, sobre a meta principal para a melhoria  da qualidade so software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
