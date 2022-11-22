@@ -12,4 +12,5 @@ Modelos tradicionais; foco na ordem e consistência de processo;  conjuntos de e
 Modelo Cascata:
 5 etapas - Comunicação, planejamento, modelagem, construação e Entrega
 
-
+Modelo especializado:
+Baseado em componente
