@@ -1,0 +1,15 @@
+Definindo o processo:
+
+feedback diariamente para melhorar
+processo de software = criar roteiro
+
+Processo linear
+fluxo: comunicação > planejamento> modelagem > construção > entrega 
+
+Modelos Prescretivo:
+Modelos tradicionais; foco na ordem e consistência de processo;  conjuntos de elementos e processo dos fluxos
+
+Modelo Cascata:
+5 etapas - Comunicação, planejamento, modelagem, construação e Entrega
+
+
